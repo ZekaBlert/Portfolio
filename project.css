@@ -1,0 +1,129 @@
+body
+{
+    background-image: url("image.webp");
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+.main-container
+{
+    background-color: #252323;
+    margin: 20px;
+    height: 550px;
+    width: 1000px;
+    display:block;
+
+}
+.dvi-1
+{
+    display: inline-block;
+    position: absolute;
+    top: 30px;
+    margin:20px;
+    height: 70%;
+    place-items: center;
+    
+}
+.h2
+{
+    margin-left:130px ;
+    color: lightblue;
+    font-family: "Brush Script MT", cursive;
+    font-size: 400%;
+}
+.h
+{
+    color: crimson;
+    margin-left: 10px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 200%;
+    
+}
+
+.img
+{
+    height: 100%;
+    
+
+}
+.shkronja
+{
+    color: lightblue;
+    margin-left: 170px;
+    margin-top: 0;
+    font-family: "Brush Script MT", cursive;
+    font-size: 350%;
+}
+.p1
+{
+    color: antiquewhite;
+}
+
+.p2
+{
+    color: antiquewhite;
+}
+.p3
+{
+   color: antiquewhite;
+}
+.p4
+{
+    color: antiquewhite;
+    margin-bottom: 0;
+    margin-top: 0;
+
+}
+.p5
+{
+    color: antiquewhite;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+.p6
+{
+    color: antiquewhite;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.p7
+{
+    color: antiquewhite;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.p8
+{
+    color: antiquewhite;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.p9
+{
+    color: antiquewhite;
+}
+.s1
+{
+    color:lightblue;
+    font-family: "Brush Script MT", cursive;
+    font-size: 200%;
+}
+.s2
+{
+    font-family: "Brush Script MT", cursive;
+    color: lightblue;
+    font-size: 200%;
+}
+.s3
+{
+    font-family: "Brush Script MT", cursive;
+    font-size: 200%;
+    color: lightblue;
+}
+.s4
+{
+    font-family: "Brush Script MT", cursive;
+    font-size: 200%;
+    color: lightblue; 
+}
